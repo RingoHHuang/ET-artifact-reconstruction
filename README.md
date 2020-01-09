@@ -1,3 +1,6 @@
+# Older version!
+Please visit https://github.com/EmotionCognitionLab/ET-remove-artifacts for most recent versions of this toolbox.
+
 # ET Remove Artifacts
 
 This tool is designed to help preprocess pupil signal from any eye-tracker (ET). This tool includes an automatic blink removal algorithm and a manual plot editor.
