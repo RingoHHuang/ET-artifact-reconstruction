@@ -1,5 +1,5 @@
-# Older version!
-Please visit https://github.com/EmotionCognitionLab/ET-remove-artifacts for most recent versions of this toolbox.
+# :warning:Older Version:warning:
+Please visit https://github.com/EmotionCognitionLab/ET-remove-artifacts for most recent versions of this toolbox. The documentation and files in this repository are outdated.
 
 # ET Remove Artifacts
 
